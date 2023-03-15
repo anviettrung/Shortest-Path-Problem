@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Temp/_Preload.unity
+    guid: 339d085d5f2ba469cbe6f793861069fc
+  - enabled: 0
+    path: Assets/Temp/Main Game.unity
+    guid: 66b5ebdb6fd644e578f08bcf04bedaf1
+  - enabled: 0
+    path: Assets/Temp/Main Menu.unity
+    guid: 344100225739e4df9bffb7aad365334e
+  - enabled: 1
+    path: Assets/_Game/Scene/Pathfinding Compare.unity
+    guid: 68dedc0a8f053a240ab79bfdd227aedf
+  - enabled: 0
+    path: Assets/_Game/Scene/Generate scen.unity
+    guid: 131113fb9f6384e0c9f708af440cf38e
+  m_configObjects: {}
